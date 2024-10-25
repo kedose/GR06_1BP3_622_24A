@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a804dff-ee73-4e71-a8cd-f59481202548" name="Changes" comment="Adding calculator execute class and calculator java archiver JAR.">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2a804dff-ee73-4e71-a8cd-f59481202548" name="Changes" comment="Change file. gitignore, inclusion Target folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epn/edu/ec/Calculator/CalculatorExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epn/edu/ec/Calculator/CalculatorExecute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/epn/edu/ec/Calculator/CalculatorExecute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/epn/edu/ec/Calculator/CalculatorExecute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sample-calculator-git-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/sample-calculator-git-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-epn.edu.ec.Calculator.CalculatorParametersTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-epn.edu.ec.Calculator.CalculatorParametersTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-epn.edu.ec.Calculator.CalculatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-epn.edu.ec.Calculator.CalculatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/epn.edu.ec.Calculator.CalculatorParametersTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/epn.edu.ec.Calculator.CalculatorParametersTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/epn.edu.ec.Calculator.CalculatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/epn.edu.ec.Calculator.CalculatorTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +168,7 @@
       <updated>1729648363619</updated>
       <workItem from="1729648364486" duration="2142000" />
       <workItem from="1729651568617" duration="3897000" />
-      <workItem from="1729861468116" duration="2543000" />
+      <workItem from="1729861468116" duration="4264000" />
     </task>
     <task id="LOCAL-00001" summary="My first project GitHub">
       <option name="closed" value="true" />
@@ -188,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729863317211</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Change file. gitignore, inclusion Target folder">
+      <option name="closed" value="true" />
+      <created>1729864274828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729864274828</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +224,8 @@
     <MESSAGE value="Adding calculator class and unit tests." />
     <MESSAGE value="Supporting parameters units tests." />
     <MESSAGE value="Adding calculator execute class and calculator java archiver JAR." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding calculator execute class and calculator java archiver JAR." />
+    <MESSAGE value="Change file. gitignore, inclusion Target folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change file. gitignore, inclusion Target folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
